@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "690759588503",
+    "project_id": "instagram-clone-c5df6",
+    "storage_bucket": "instagram-clone-c5df6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690759588503:android:b206cb7365b4d45c74e7d2",
+        "android_client_info": {
+          "package_name": "com.example.climate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "690759588503-ga59ikehhaui79s84rktaa0nkn6ruv16.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdJhztL1pXV8bE1kOwOHbEjuYIIPNplsY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "690759588503-ga59ikehhaui79s84rktaa0nkn6ruv16.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
